@@ -59,19 +59,19 @@ By the end of the course the students will be able to
 | 14 |  Mon, Oct 5                | [Final Exam] |  
 | 15 |  Wed, Oct 7                | Final Presentations |
 
-[Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
-[Linear Regression]: Lessons/LinearRegression.md
-[Support Vector Machine]: Lessons/SupportVectorMachine.md
-[Logistic Regression]: Notebooks/remote_simple_logistic_regression.ipynb
-[Model Evaluation]: Lessons/ModelEvaluation.md
-[Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
-[Ensemble Methods]:Lessons/EnsembleMethods.md
-[Decision Tree]: Lessons/DecisionTree.md
-[Clustering]: Lessons/Clustering.md
-[Review Session]: Lessons/Review.md
-[Naive Bayes]: Lessons/NaiveBayes.md
-[TFIDF and its Application]: Lessons/TFIDF.md
-[Ensemble Methods]: Lessons/EnsembleMethods.md
+[Introduction to Machine Learning]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_intro_ML.ipynb
+[Linear Regression]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_simple_linear_regression.ipynb
+[Support Vector Machine]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Lessons/SupportVectorMachine.md
+[Logistic Regression]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_simple_logistic_regression.ipynb
+[Model Evaluation]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_Model_Evaluation.ipynb
+[Principal Component Analysis]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_simple_PCA.ipynb
+[Ensemble Methods]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Lessons/EnsembleMethods.md
+[Decision Tree]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_Decision_Tree.ipynb
+[Clustering]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_simple_kmeans.ipynb
+[Review Session]: ()
+[Naive Bayes]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Lessons/NaiveBayes.md
+[TFIDF and its Application]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/TFIDF.key
+[Ensemble Methods]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Lessons/EnsembleMethods.md
 
 ## Assignment Schedule
 
@@ -83,9 +83,9 @@ By the end of the course the students will be able to
 | [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, June 24    |  Wed, July 1   | [Submit Assignment]  |
 | [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Wed, July 1    |  Wed, July 8   | [Submit Assignment]  |
 
-[Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/Home_Work_Linear_Regression.ipynb
-[Homework 2 - SVM for Breast Cancer Dataset]:/Assignments/08_Support_Vector_Machines.ipynb
-[Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]:/Assignments/Home_Work_PCA_Kmeans.ipynb
+[Homework 1 - Linear Regression for Boston Housing Dataset]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Assignments/Home_Work_Linear_Regression.ipynb
+[Homework 2 - SVM for Breast Cancer Dataset]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Assignments/08_Support_Vector_Machines.ipynb
+[Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]: https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Assignments/Home_Work_PCA_Kmeans.ipynb
 [Submit Assignment]: https://docs.google.com/spreadsheets/d/1qPPzmtgPi7Vn6BKxArFyuXRDnWtaCAvPXm-W8A6C0O8/edit#gid=186542430
 ## Class Assignments
 - Apply Linear Regression for Boston Housing Dataset
